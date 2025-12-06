@@ -67,7 +67,7 @@ RF14 – Feedback sobre notificações
 O aluno poderá marcar uma notificação como lida, não lida ou importante.
 
 
-#Requisitos Não Funcionais (RNF)
+## Requisitos Não Funcionais (RNF)
 
 (Qualidade do sistema — desempenho, segurança, usabilidade, etc.)
 
