@@ -1,4 +1,4 @@
-#Requisitos Funcionais (RF)#
+## Requisitos Funcionais (RF)#
 
 (Tudo que o sistema DEVE fazer — funcionalidades)
 
