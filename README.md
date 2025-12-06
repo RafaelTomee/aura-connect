@@ -1,5 +1,4 @@
-# aura-connect
-##Requisitos Funcionais (RF)
+#Requisitos Funcionais (RF)
 
 (Tudo que o sistema DEVE fazer — funcionalidades)
 
@@ -66,3 +65,48 @@ O usuário deve conseguir buscar avisos por palavra-chave.
 RF14 – Feedback sobre notificações
 
 O aluno poderá marcar uma notificação como lida, não lida ou importante.
+
+
+#Requisitos Não Funcionais (RNF)
+
+(Qualidade do sistema — desempenho, segurança, usabilidade, etc.)
+
+RNF01 – Usabilidade
+
+A interface deve ser intuitiva, responsiva e acessível em dispositivos móveis e desktop.
+
+RNF02 – Performance
+
+O tempo de carregamento inicial da página deve ser inferior a 3 segundos em conexões comuns.
+
+RNF03 – Segurança de Dados
+
+Senhas devem ser armazenadas usando criptografia (por exemplo, hashing com bcrypt).
+
+RNF04 – Disponibilidade
+
+O sistema deve estar disponível no mínimo 95% do tempo durante seu período de funcionamento.
+
+RNF05 – Compatibilidade
+
+O sistema deve rodar corretamente nos principais navegadores (Chrome, Edge, Firefox).
+
+RNF06 – Manutenibilidade
+
+O código deve seguir padrões de versionamento Git e padronização de commits para facilitar manutenção.
+
+RNF07 – Confiabilidade
+
+O sistema deve garantir que notificações sejam entregues sem duplicidade.
+
+RNF08 – Acessibilidade
+
+O sistema deve seguir normas de acessibilidade (contraste adequado, textos alternativos, navegação por teclado).
+
+RNF09 – Escalabilidade
+
+A arquitetura deverá permitir crescimento de usuários sem perda significativa de performance.
+
+RNF10 – Privacidade
+
+Os dados dos usuários devem ser usados apenas para fins acadêmicos, seguindo normas da LGPD.
